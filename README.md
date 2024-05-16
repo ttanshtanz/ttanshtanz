@@ -104,6 +104,7 @@
   <img src="https://raw.githubusercontent.com/ttanshtanz/ttanshtanz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+
 ###
 
 <!-- Profile Views Counter 
