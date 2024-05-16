@@ -90,9 +90,11 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ttanshtanz&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  height="150"  width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttanshtanz&layout=compact&langs_count=6&theme=github_dark" alt="languages graph" width="250" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ttanshtanz&show_icons=true&count_private=true&theme=github_dark" alt="stats graph" width="300" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttanshtanz&layout=compact&langs_count=6&theme=github_dark" alt="languages graph"height="150"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ttanshtanz&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ttanshtanz&show_icons=true&count_private=true&theme=github_dark" alt="stats graph" height="150"/>
 </div>
 
 </div>
