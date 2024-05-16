@@ -99,10 +99,7 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-  <img src="snake.svg" alt="Snake animation" />
-</div>
+![snake gif](https://github.com/ttanshtanz/ttanshtanz/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
