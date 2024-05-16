@@ -99,7 +99,9 @@
 
 ###
 
-![snake gif](https://github.com/ttanshtanz/ttanshtanz/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+<img src="https://github.com/ttanshtanz/ttanshtanz/blob/output/snake.svg">
+</div>
 
 ###
 
